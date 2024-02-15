@@ -14,7 +14,8 @@
 
 
 
-print ('I have eaten ' + str(99)+ ' burritos')
+message = 'I have eaten ' + str(99)+ ' burritos'
+print (message)
 
 
 # Question: 7. Why is eggs a valid variable name while 100 is invalid?
