@@ -1,5 +1,6 @@
 # This program takes a float amount of dollars 
 # and returns that absolute amound in cents
+# this is an extra activity
 # author: Filipe Carvalho
 
 
