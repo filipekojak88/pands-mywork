@@ -33,3 +33,4 @@ for idx, student_name in enumerate(student['name']):
     for module_data in student['modules'][idx]:
         print('- Course: {}'.format(module_data['courseName']))
         print('- Grade: {}'.format(module_data['grade']))
+        
